@@ -1,0 +1,176 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - KeyLogger Suite</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #d9f0ff, #a7d8ff, #7ec0ff);
+            font-family: 'Poppins', sans-serif;
+            display: flex;
+            flex-direction: column;
+        }
+
+
+        .header {
+            background: #1f2937;
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+            width: 100%;
+        }
+
+            .header h1 {
+                font-size: 3rem;
+                margin-bottom: 10px;
+                width: 300px;
+                text-align: center;
+                margin-left: 350px;
+            }
+
+        .module {
+            max-width: 900px;
+            margin: 60px auto;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+            .module:hover {
+                transform: translateY(-5px);
+            }
+
+            .module h2 {
+                color: #111827;
+                font-size: 2rem;
+                margin-bottom: 15px;
+            }
+
+            .module p {
+                font-size: 1.1rem;
+                color: #4b5563;
+            }
+
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background: #1f2937;
+            color: white;
+            margin-top: 40px;
+        }
+
+        @@media (max-width: 768px) {
+            .module {
+                margin: 30px 15px;
+                padding: 30px 20px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .module h2 {
+                font-size: 1.5rem;
+            }
+
+            .footer {
+                background-color: #1e1e2f;
+                color: #f0f0f0;
+                text-align: center;
+                padding: 20px;
+                font-family: 'Segoe UI', sans-serif;
+                margin-top: 40px;
+                box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+                border-top: 1px solid #333;
+            }
+
+                .footer a {
+                    color: #00bcd4;
+                    text-decoration: none;
+                    font-weight: bold;
+                }
+
+                    .footer a:hover {
+                        text-decoration: underline;
+                    }
+
+            @@media (max-width: 600px) {
+                .footer {
+                    font-size: 14px;
+                    padding: 15px;
+                }
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <h1>About Us</h1>
+        <a href="@Url.Action("LoginView", "Home")" style="text-decoration:none">Login</a>
+        <a href="@Url.Action("LandingPageView", "LandingPage")" style ="text-decoration:none">Home</a>
+
+    </header>
+
+    <section class="module" data-aos="fade-right">
+        <h2>CIES</h2>
+        <p>Monitor employee productivity and compliance with our advanced keylogger tool. This solution tracks all keystrokes, flagging blacklisted words or phrases in real-time.  Ensuring a secure, professional work environment while maintaining transparency." The  integration of all modules together to work in coordination in order to generate the desired output and attain the objective defined is the joint effort  of the whole team.</p>
+    </section>
+
+    <section class="module" data-aos="fade-right">
+        <h2>Keylogger</h2>
+        <p>Capturing Key strokes at the employee PC. Addtionally, it is connected to OneDrive folder where it creates a separate folder for each employee. Within this folder, two text-files are created. One includes the PC information allotted to the employee and the  other text-file includes the key strokes captured. This work was done Ifrahim Yousuf and Keyan Majid.</p>
+    </section>
+
+  
+
+    <section class="module" data-aos="fade-up">
+        <h2>Keylogger Connectivity Logic</h2>
+        <p>OneDrive Folder Creation. This included the creation of folder in the drive within this folder, two text files are created i.e DeviceInfo and Keylogs. The folder is created with the name of DeviceID which is basically a UUID which is the primary key for Employee Table and is unique for each PC given to the employees. This work was done by Zohaib Arshad Noor and Keyan Majid.</p>
+    </section>
+
+    <section class="module" data-aos="zoom-in">
+        <h2>Admin side Connectivity Logic</h2>
+        <p>This included the retrieval of data from folder of a single employee and inserting it into the relevant tables in database and in the relevant employeeID, not mixing up the employees information. The logic of this side was developed by Ifrahim Yousuf and Jawad Ul Hassan. This concluded the remote connectivity of client-side (KeyLogger) to our Database server</p>
+    </section>
+    <section class="module" data-aos="zoom-in">
+        <h2>MVC</h2>
+        <p>
+            This module included the logic of retrieval of data from database and showing it to the user(Manager in our case). This includes three main phases: Authentication, Employees Directory, Employee Details.
+            o	Authentication
+            o	Employees Directory
+            o	Employee Details
+            o	This module was developed by Ifrahim Yousuf and Keyan.
+        </p>
+    </section>
+
+    <div class="footer">
+        <p>© 2025 Keylogger Insight. All rights reserved.</p>
+    </div>
+
+    <script src="@Url.Content("https://unpkg.com/aos@2.3.1/dist/aos.js")"></script>
+    <script>
+        AOS.init({
+            duration: 1000,
+        });
+    </script>
+</body>
+</html>
+

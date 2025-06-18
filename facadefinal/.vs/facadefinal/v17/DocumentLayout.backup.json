@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|c:\\users\\anonymouuss\\onedrive\\final sda project\\facadefinal\\facadefinal\\keylogreaderfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|solutionrelative:facadefinal\\keylogreaderfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|c:\\users\\anonymouuss\\onedrive\\final sda project\\facadefinal\\facadefinal\\violationanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|solutionrelative:facadefinal\\violationanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|c:\\users\\anonymouuss\\onedrive\\final sda project\\facadefinal\\facadefinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|solutionrelative:facadefinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|c:\\users\\anonymouuss\\onedrive\\final sda project\\facadefinal\\facadefinal\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|solutionrelative:facadefinal\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|c:\\users\\anonymouuss\\onedrive\\final sda project\\facadefinal\\facadefinal\\facadefinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|solutionrelative:facadefinal\\facadefinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|c:\\users\\anonymouuss\\onedrive\\final sda project\\facadefinal\\facadefinal\\scoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|solutionrelative:facadefinal\\scoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|c:\\users\\anonymouuss\\onedrive\\final sda project\\facadefinal\\facadefinal\\keylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|solutionrelative:facadefinal\\keylogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|c:\\users\\anonymouuss\\onedrive\\final sda project\\facadefinal\\facadefinal\\deviceinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793F5F62-6332-46C9-838D-9B3EC3D7AA8C}|facadefinal\\facadefinal.csproj|solutionrelative:facadefinal\\deviceinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoringService.cs",
+              "DocumentMoniker": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\ScoringService.cs",
+              "RelativeDocumentMoniker": "facadefinal\\ScoringService.cs",
+              "ToolTip": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\ScoringService.cs",
+              "RelativeToolTip": "facadefinal\\ScoringService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:02:17.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\Program.cs",
+              "RelativeDocumentMoniker": "facadefinal\\Program.cs",
+              "ToolTip": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\Program.cs",
+              "RelativeToolTip": "facadefinal\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:59:27.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KeyLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\KeyLogService.cs",
+              "RelativeDocumentMoniker": "facadefinal\\KeyLogService.cs",
+              "ToolTip": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\KeyLogService.cs",
+              "RelativeToolTip": "facadefinal\\KeyLogService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:01:47.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViolationAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\ViolationAnalyzer.cs",
+              "RelativeDocumentMoniker": "facadefinal\\ViolationAnalyzer.cs",
+              "ToolTip": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\ViolationAnalyzer.cs",
+              "RelativeToolTip": "facadefinal\\ViolationAnalyzer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:02:38.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "facadefinal\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\EmployeeService.cs",
+              "RelativeToolTip": "facadefinal\\EmployeeService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:01:27.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeylogReaderFacade.cs",
+              "DocumentMoniker": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\KeylogReaderFacade.cs",
+              "RelativeDocumentMoniker": "facadefinal\\KeylogReaderFacade.cs",
+              "ToolTip": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\KeylogReaderFacade.cs",
+              "RelativeToolTip": "facadefinal\\KeylogReaderFacade.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:02:59.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "facadefinal.csproj",
+              "DocumentMoniker": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\facadefinal.csproj",
+              "RelativeDocumentMoniker": "facadefinal\\facadefinal.csproj",
+              "ToolTip": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\facadefinal.csproj",
+              "RelativeToolTip": "facadefinal\\facadefinal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T20:00:14.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeviceInfoService.cs",
+              "DocumentMoniker": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\DeviceInfoService.cs",
+              "RelativeDocumentMoniker": "facadefinal\\DeviceInfoService.cs",
+              "ToolTip": "C:\\Users\\ANONYMOUUSS\\OneDrive\\final sda project\\facadefinal\\facadefinal\\DeviceInfoService.cs",
+              "RelativeToolTip": "facadefinal\\DeviceInfoService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:59:56.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

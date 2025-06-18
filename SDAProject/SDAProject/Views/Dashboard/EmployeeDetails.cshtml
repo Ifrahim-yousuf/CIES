@@ -1,0 +1,315 @@
+﻿@model SDAProject.Models.EmployessDetailModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Employee Profile</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #f4f9ff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #020947;
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 10px rgba(0,255,247,0.2);
+            font-family: 'Orbitron', sans-serif;
+            width: 100%;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .logo {
+            color: #ffffff;
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        .nav-links {
+            list-style: none;
+            display: flex;
+            gap: 1.5rem;
+        }
+
+            .nav-links li a {
+                color: #f0f0f0;
+                text-decoration: none;
+                font-weight: 500;
+                padding: 0.3rem 0.6rem;
+                transition: 0.3s;
+            }
+
+                .nav-links li a:hover {
+                    color: #9ea1a1;
+                    border-bottom: 2px solid #b3b9b9;
+                }
+
+        .logout-btn {
+            background: #ff3b3b;
+            padding: 0.4rem 0.8rem;
+            border-radius: 5px;
+            color: white !important;
+            font-weight: bold;
+        }
+
+            .logout-btn:hover {
+                background: #e60000;
+                border: none;
+            }
+
+        .main-content {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 20px;
+        }
+
+        .card {
+            background: #ffffff;
+            max-width: 900px;
+            width: 100%;
+            display: flex;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+            border: 1px solid #dce7f7;
+            margin-top: 20px;
+        }
+
+        .card-left {
+            flex: 1;
+            padding: 30px 40px;
+            background: #eaf4ff;
+        }
+
+            .card-left h2 {
+                color: #1f4f91;
+                font-size: 28px;
+                margin-bottom: 20px;
+            }
+
+        .info-item {
+            margin-bottom: 16px;
+        }
+
+        .info-label {
+            font-size: 14px;
+            color: #666;
+            font-weight: 500;
+        }
+
+        .info-value {
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            margin-top: 4px;
+        }
+
+        .violation {
+            color: #d63c3c;
+        }
+
+        .score {
+            color: #1f883d;
+        }
+
+        .card-right {
+            flex: 1;
+            padding: 30px;
+            background: #f7fbff;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .keylog-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1f4f91;
+            margin-bottom: 10px;
+        }
+
+        .keylog-box {
+            background: #fff;
+            border: 1.5px solid #d0e5ff;
+            border-radius: 10px;
+            padding: 15px;
+            height: 100%;
+            max-height: 600px;
+            overflow-y: auto;
+            font-family: monospace;
+            font-size: 14px;
+            color: #333;
+            line-height: 1.6;
+            white-space: pre-wrap;
+        }
+
+            .keylog-box::-webkit-scrollbar {
+                width: 8px;
+            }
+
+            .keylog-box::-webkit-scrollbar-track {
+                background: #f0f4f9;
+            }
+
+            .keylog-box::-webkit-scrollbar-thumb {
+                background: #b4cfe7;
+                border-radius: 5px;
+            }
+
+        @@media (max-width: 768px) {
+            .navbar {
+                flex-direction: column;
+                align-items: flex-start;
+                padding: 1rem;
+            }
+
+            .nav-links {
+                flex-direction: column;
+                width: 100%;
+                display: none;
+                margin-top: 1rem;
+            }
+
+                .nav-links.active {
+                    display: flex;
+                }
+
+            .card {
+                flex-direction: column;
+            }
+
+            .card-left,
+            .card-right {
+                padding: 25px;
+            }
+
+            .keylog-box {
+                max-height: 200px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar admin-navbar">
+        <div class="logo">Admin Panel</div>
+        <ul class="nav-links">
+            <li><a href="@Url.Action("RegistrationView", "Home")">Registration</a></li>
+            <li><a href="@Url.Action("Login", "Home")">Login</a></li>
+            <li><a href="@Url.Action("DashBoardView", "DashBoard")">DashBoard</a></li>
+            <li><a href="@Url.Action("Logout", "Home")" class="logout-btn">Logout</a></li>
+
+        </ul>
+    </nav>
+
+    <div class="main-content">
+        <div class="card">
+            <div class="card-left">
+                <h2>@Model.EmpiName</h2>
+
+                <div class="info-item">
+                    <div class="info-label">Device ID</div>
+                    <div class="info-value">@Model.DeviceID.ToString().ToUpper()</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">Address</div>
+                    <div class="info-value">@Model.Address</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">Contact No</div>
+                    <div class="info-value">@Model.ContactNo</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">Desktop Name</div>
+                    <div class="info-value">@Model.DesktopName</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">Operating System</div>
+                    <div class="info-value">@Model.OSVersion</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">RAM</div>
+                    <div class="info-value">@Model.RamSize</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">MAC Address</div>
+                    <div class="info-value">@Model.MacAddress</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">Department</div>
+                    <div class="info-value">@Model.DepartmentName</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">Manager</div>
+                    <div class="info-value">@Model.ManagerName</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">Violation Keylog</div>
+                    <div class="info-value violation">@Model.ViolationCount Violations</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">Score</div>
+                    <div class="info-value score">@Model.Score / 100</div>
+                </div>
+
+                <div style="margin-top: 25px;">
+                    <form asp-action="Delete" asp-controller="Dashboard" method="post">
+                        <input type="hidden" name="deviceId" value="@Model.DeviceID" />
+                        <button type="submit" onclick="return confirm('Are you sure you want to fire this employee?')" style="
+                            background-color: #ff3b3b;
+                            color: white;
+                            padding: 10px 20px;
+                            font-weight: bold;
+                            font-size: 14px;
+                            border: none;
+                            border-radius: 8px;
+                            cursor: pointer;
+                            transition: background-color 0.3s;">
+                            FIRE
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            <div class="card-right">
+                <div class="keylog-title">Keylog Data</div>
+                <div class="keylog-box">
+                    @Model.KeylogData
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+

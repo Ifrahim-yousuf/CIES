@@ -1,0 +1,22 @@
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\bin\Debug\FinalKeylogger.exe.config
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\bin\Debug\FinalKeylogger.exe
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\bin\Debug\FinalKeylogger.pdb
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\bin\Debug\System.CodeDom.dll
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\bin\Debug\System.CodeDom.xml
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKeylogger.csproj.AssemblyReference.cache
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKeylogger.csproj.ResolveComReference.cache
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKeylogger.csproj.CoreCompileInputs.cache
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKey.E76DDE2B.Up2Date
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKeylogger.exe
+C:\Users\KAMRAN TRADERs\Desktop\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKeylogger.pdb
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\bin\Debug\FinalKeylogger.exe.config
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\bin\Debug\FinalKeylogger.exe
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\bin\Debug\FinalKeylogger.pdb
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\bin\Debug\System.CodeDom.dll
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\bin\Debug\System.CodeDom.xml
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKeylogger.csproj.AssemblyReference.cache
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKeylogger.csproj.ResolveComReference.cache
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKeylogger.csproj.CoreCompileInputs.cache
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKey.E76DDE2B.Up2Date
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKeylogger.exe
+C:\Users\ANONYMOUUSS\OneDrive\final sda project\FinalKeylogger\FinalKeylogger\obj\Debug\FinalKeylogger.pdb

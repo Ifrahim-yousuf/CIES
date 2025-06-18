@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\services\\activityloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\services\\activityloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\admindashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\admindashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\dashboard\\employeedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\dashboard\\employeedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\controllers\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\controllers\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\controllers\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\controllers\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\dashboard\\dashboardview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\dashboard\\dashboardview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\landingpage\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\landingpage\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\landingpage\\landingpageview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\landingpage\\landingpageview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\home\\registrationview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\home\\registrationview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\home\\loginview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\home\\loginview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\models\\keyloggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\models\\keyloggerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\loginview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\loginview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\models\\employessdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\models\\employessdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|c:\\users\\ifrah\\onedrive\\keylogger github upload\\sdaproject\\sdaproject\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7F18444C-4D4E-4A3A-94D8-508DDD238034}|SDAProject\\AdminDashboard.csproj|solutionrelative:sdaproject\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 336,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "SDAProject\\Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T21:16:07.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "SDAProject\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:59:11.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SDAProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGwAAAAAX2ZmZmYFwDgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:14:58.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActivityLoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Services\\ActivityLoggerService.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Services\\ActivityLoggerService.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Services\\ActivityLoggerService.cs",
+              "RelativeToolTip": "SDAProject\\Services\\ActivityLoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T19:55:40.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Dashboard\\EmployeeDetails.cshtml",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\Dashboard\\EmployeeDetails.cshtml",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Dashboard\\EmployeeDetails.cshtml",
+              "RelativeToolTip": "SDAProject\\Views\\Dashboard\\EmployeeDetails.cshtml",
+              "ViewState": "AgIAAM4AAAAAMAAAAAABwNgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T11:09:47.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersModel.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\UsersModel.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Models\\UsersModel.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\UsersModel.cs",
+              "RelativeToolTip": "SDAProject\\Models\\UsersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:43:51.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Controllers\\Registration.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Controllers\\Registration.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Controllers\\Registration.cs",
+              "RelativeToolTip": "SDAProject\\Controllers\\Registration.cs",
+              "ViewState": "AgIAAAAAAABAMzMzMzMrwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:15:11.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Controllers\\Login.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Controllers\\Login.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Controllers\\Login.cs",
+              "RelativeToolTip": "SDAProject\\Controllers\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:17:36.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LandingPage.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Controllers\\LandingPage.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Controllers\\LandingPage.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Controllers\\LandingPage.cs",
+              "RelativeToolTip": "SDAProject\\Controllers\\LandingPage.cs",
+              "ViewState": "AgIAAAEAAACAMjMzMzMbwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:55:46.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashBoardView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Dashboard\\DashBoardView.cshtml",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\Dashboard\\DashBoardView.cshtml",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Dashboard\\DashBoardView.cshtml",
+              "RelativeToolTip": "SDAProject\\Views\\Dashboard\\DashBoardView.cshtml",
+              "ViewState": "AgIAAA4AAAAAzMzMzIwjwMEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T10:58:43.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\LandingPage\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\LandingPage\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\LandingPage\\AboutUs.cshtml",
+              "RelativeToolTip": "SDAProject\\Views\\LandingPage\\AboutUs.cshtml",
+              "ViewState": "AgIAAG4AAAAAOzMzMzMrwH8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T05:13:43.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LandingPageView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\LandingPage\\LandingPageView.cshtml",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\LandingPage\\LandingPageView.cshtml",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\LandingPage\\LandingPageView.cshtml",
+              "RelativeToolTip": "SDAProject\\Views\\LandingPage\\LandingPageView.cshtml",
+              "ViewState": "AgIAAEcCAAAADgAAAEAhwFgCAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T16:48:03.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Home\\RegistrationView.cshtml",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\Home\\RegistrationView.cshtml",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Home\\RegistrationView.cshtml",
+              "RelativeToolTip": "SDAProject\\Views\\Home\\RegistrationView.cshtml",
+              "ViewState": "AgIAAOYAAACgmJmZmZkuwOoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T19:09:51.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Home\\LoginView.cshtml",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\Home\\LoginView.cshtml",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Home\\LoginView.cshtml",
+              "RelativeToolTip": "SDAProject\\Views\\Home\\LoginView.cshtml",
+              "ViewState": "AgIAAMoAAAAAAAAAAABYPdUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T19:19:05.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KeyLoggerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\KeyLoggerDbContext.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Models\\KeyLoggerDbContext.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\KeyLoggerDbContext.cs",
+              "RelativeToolTip": "SDAProject\\Models\\KeyLoggerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:28:07.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashBoardModel.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\DashBoardModel.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Models\\DashBoardModel.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\DashBoardModel.cs",
+              "RelativeToolTip": "SDAProject\\Models\\DashBoardModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:45:19.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Program.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Program.cs",
+              "RelativeToolTip": "SDAProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:56:48.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.csproj",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\AdminDashboard.csproj",
+              "RelativeDocumentMoniker": "SDAProject\\AdminDashboard.csproj",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\AdminDashboard.csproj",
+              "RelativeToolTip": "SDAProject\\AdminDashboard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T20:00:35.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\LoginView.cshtml",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\LoginView.cshtml",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\LoginView.cshtml",
+              "RelativeToolTip": "SDAProject\\Views\\LoginView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T19:17:15.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SDAProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T18:43:34.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\appsettings.json",
+              "RelativeDocumentMoniker": "SDAProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\appsettings.json",
+              "RelativeToolTip": "SDAProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T16:57:17.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\LoginModel.cs",
+              "RelativeToolTip": "SDAProject\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T22:36:24.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployessDetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\EmployessDetailModel.cs",
+              "RelativeDocumentMoniker": "SDAProject\\Models\\EmployessDetailModel.cs",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Models\\EmployessDetailModel.cs",
+              "RelativeToolTip": "SDAProject\\Models\\EmployessDetailModel.cs",
+              "ViewState": "AgIAAAcAAAAA9v////8HwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:39:14.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\wwwroot\\js\\app.js",
+              "RelativeDocumentMoniker": "SDAProject\\wwwroot\\js\\app.js",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\wwwroot\\js\\app.js",
+              "RelativeToolTip": "SDAProject\\wwwroot\\js\\app.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-31T16:55:02.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "SDAProject\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "SDAProject\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-31T16:52:42.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SDAProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T18:43:36.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SDAProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAADQ/////39ZwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T18:07:57.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "SDAProject\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ifrah\\OneDrive\\keylogger github upload\\SDAProject\\SDAProject\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "SDAProject\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-31T18:11:03.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
